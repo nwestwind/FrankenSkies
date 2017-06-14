@@ -1,0 +1,32 @@
+nav {
+	height: 100%;
+	display: none;
+	vertical-align: middle;
+	float: right;
+	padding: 0;
+	@media (min-width: $screen-sm) {
+		display: inline-block;
+	}
+	a {
+		display: inline-block; 
+		color: $white;
+		padding: 0 1em;
+		font-weight: $base-font-weight;
+		-webkit-transition: all 600ms cubic-bezier(1, 0, 0, 1);
+			transition: all 600ms cubic-bezier(1, 0, 0, 1);
+		& + a {
+			margin-left: .5em
+		}
+		&.active {
+			background: $white;
+			color: $black;
+		}
+		&:hover {
+			background: rgba($white, .75);
+			color: $black;
+		}
+	}
+	.scroll & {
+		color: $green;
+	}
+}

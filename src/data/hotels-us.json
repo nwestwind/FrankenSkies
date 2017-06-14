@@ -1,0 +1,183 @@
+{
+  "locations": [{
+    "hotelname": "Hilton Chicago",
+    "address": "720 S. Michigan Ave. Chicago, IL 60605",
+    "url": "http://www3.hilton.com/en/hotels/illinois/hilton-chicago-CHICHHH/index.html",
+    "phone": "(312) 922-4400",
+    "price": "$245/night",
+    "rating": "four",
+    "distance": "1.4 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8725514,
+      "longitude": -87.6249079
+    },
+    "index": "B"
+  }, {
+    "hotelname": "Renaissance Blackstone Chicago Hotel",
+    "address": "636 S. Michigan Ave. Chicago, IL 60605",
+    "url": "http://www.marriott.com/hotels/travel/chirh-renaissance-blackstone-chicago-hotel/",
+    "phone": "(312) 447-0955",
+    "price": "$269/night",
+    "rating": "four",
+    "distance": "1.6 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8733276,
+      "longitude": -87.6247594
+    },
+    "index": "C"
+  }, {
+    "hotelname": "Hard Rock Hotel Chicago",
+    "address": "230 N. Michigan Ave. Chicago, IL 60601",
+    "url": "http://www.hardrockhotelchicago.com/",
+    "phone": "(312) 345-1000",
+    "price": "$259/night",
+    "rating": "four",
+    "distance": "2.5 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8866515,
+      "longitude": -87.6248918
+    },
+    "index": "D"
+  }, {
+    "hotelname": "Hyatt Regency Chicago",
+    "address": "151 E. Upper Wacker Dr. Chicago, IL 60616",
+    "url": "http://chicago.regency.hyatt.com/en/hotel/home.html?src=agn_mls_hr_lclb_gplaces_chirc",
+    "phone": "(312) 633-3000",
+    "price": "$269/night",
+    "rating": "four",
+    "distance": "2.5 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.887697,
+      "longitude": -87.62266
+    },
+    "index": "E"
+  }, {
+    "hotelname": "Wyndham Grand Chicago Riverfront",
+    "address": "71 E. Upper Wacker Dr. Chicago, IL 60601",
+    "url": "http://www.wyndhamgrandchicagoriverfront.com/",
+    "phone": "(312) 346-7100",
+    "price": "$245/night",
+    "rating": "four",
+    "distance": "2.5 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8873005,
+      "longitude": -87.6258392
+    },
+    "index": "F"
+  }, {
+    "hotelname": "Sheraton Grand Chicago",
+    "address": "301 E. North Water St. Chicago, IL 60611",
+    "url": "http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=196",
+    "phone": "(312) 464-1000",
+    "price": "$250/night",
+    "rating": "four",
+    "distance": "2.6 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8891263,
+      "longitude": -87.6198314
+    },
+    "index": "G"
+  }, {
+    "hotelname": "Loews Chicago Hotel",
+    "address": "455 N. Park Dr. Chicago, IL 60611",
+    "url": "https://www.loewshotels.com/chicago-downtown/",
+    "phone": "(312) 840-6600",
+    "price": "$279/night",
+    "rating": "four",
+    "distance": "2.6 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8900004,
+      "longitude": -87.6186153
+    },
+    "index": "H"
+  }, {
+    "hotelname": "Virgin Hotels Chicago",
+    "address": "203 N. Wabash Ave. Chicago, IL 60601",
+    "url": "https://virginhotels.com/",
+    "phone": "(312) 940-4400",
+    "price": "$275/night",
+    "rating": "four",
+    "distance": "2.6 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8859845,
+      "longitude": -87.6260905
+    },
+    "index": "I"
+  }, {
+    "hotelname": "InterContinental Chicago",
+    "address": "505 N. Michigan Ave. Chicago, IL 60611",
+    "url": "http://www.icchicagohotel.com/",
+    "phone": "(312) 944-4100",
+    "price": "$269/night",
+    "rating": "four",
+    "distance": "2.7 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8913005,
+      "longitude": -87.6237405
+    },
+    "index": "J"
+  }, {
+    "hotelname": "Chicago Marriott Downtown Magnificent Mile",
+    "address": "540 N. Michigan Ave. Chicago, IL 60611",
+    "url": "http://www.marriott.com/hotels/travel/chidt-chicago-marriott-downtown-magnificent-mile/",
+    "phone": "(312) 836-0100",
+    "price": "$269/night",
+    "rating": "four",
+    "distance": "2.8 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8922881,
+      "longitude": -87.6246977
+    },
+    "index": "K"
+  }, {
+    "hotelname": "Palmer House",
+    "address": "17 E. Monroe St, Chicago, IL 60603",
+    "url": "http://www.palmerhousehiltonhotel.com/",
+    "phone": "(312) 726-7500",
+    "price": "$245/night",
+    "rating": "four",
+    "distance": "2.9 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8803246,
+      "longitude": -87.6270476
+    },
+    "index": "L"
+  }, {
+    "hotelname": "Hyatt Regency McCormick Place",
+    "address": "2233 S. King Dr. Chicago, IL 60616",
+    "url": "http://mccormickplace.regency.hyatt.com/en/hotel/home.html",
+    "phone": "(312) 567-1234",
+    "price": "$284/night",
+    "rating": "four",
+    "distance": "0 miles away",
+    "mapthumbnail": "/img/maps/smallmap.jpg",
+    "hotelthumbnail": "/img/maps/smallmap.jpg",
+    "loc": {
+      "latitude": 41.8521602,
+      "longitude": -87.6183961
+    },
+    "index": "A"
+  }]
+}

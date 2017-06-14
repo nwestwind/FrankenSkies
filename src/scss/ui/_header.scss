@@ -1,0 +1,62 @@
+header {
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  background: $black;
+  left: 0;
+  max-width: 1440px;
+  position: fixed;
+  top:0;
+  transition: all 250ms ease;
+  user-select: none;
+  z-index: 1010;
+  height: 50px;
+  line-height: 50px;
+  margin: 0 auto;
+  right: 0;
+  @include clearfix();
+	@media screen and (min-width: $screen-md) {
+    background: transparent;
+	}
+  &.open {}
+  &.open,
+	&.scroll {
+    transition: all 200ms ease;
+		background-color: $black;
+	}
+
+	.logo {
+    margin: 0;
+    color: $white;
+    float: left;
+    line-height: inherit;
+    font-size: 1.25em;
+    font-weight: $base-font-weight;
+    vertical-align: middle;
+    font-family: 'Permanent Marker', cursive;
+    > .f,
+    > .s {
+      overflow: hidden; 
+      line-height: 1;
+      max-width: 0;
+      letter-spacing: .15em;
+      display: inline-block;
+      transition: max-width 250ms ease;
+      transform-origin: left center;
+    }
+    &:hover {
+      .f,
+      .s {
+        max-width: 100%
+      }
+    }
+    .f {
+
+    }
+    .s {
+
+    }
+	}
+}

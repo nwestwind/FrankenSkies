@@ -1,0 +1,42 @@
+{
+  "text": [{
+    "id": "Accenture",
+    "company": "Accenture",
+    "body": "The character appeared in the last panel of The Incredible Hulk #180 before having a larger role in #181 (cover-dated Nov. 1974). He was created by writer Len Wein and Marvel art director John Romita, Sr., who designed the character, and was first drawn for publication by Herb Trimpe. Wolverine then joined a revamped version of the superhero team the X-Men, where eventually writer Chris Claremont and artist-writer John Byrne would play significant roles in the character's development. Artist Frank Miller collaborated with <a href=\"\/pdf\/wday_rising16_europe_training.pdf\" class=\"btn blue sm\" target=\"_blank\">Download PDF</a> and helped to revise the character with a four-part eponymous limited series from <h3>September to December 1982</h3> which debuted",
+    "image": "/img/yellow-orange-rings.png"
+  }, {
+    "id": "Apirio",
+    "company": "Apirio",
+    "body": "Raised by her Aunt Carrie after tragedy befell her parents, young Anna Marie ran away from home and was taken in by Mystique and Destiny (Irene Adler), whom Rogue came to regard as her surrogate parents. Rogue's mutant power first manifested in her early teens when she kissed Cody Robbins. Her mind filled with his memories, and he fell into a permanent coma. Eventually realizing she could never safely live among normal people, Rogue began participating in her foster mother's criminal"
+  }, {
+    "id": "IBM",
+    "company": "IBM",
+    "body": "Hawkeye (Clint Barton) - long-standing member of the Avengers, former leader of their West <a href=\"#blah\">Coast branch</a>, killed by Scarlet Witch, resurected after M-Day, now known as Ronin",
+    "image": "/img/yellow-orange-rings.png"
+  }],
+  "video": [{
+    "id": "IBM",
+    "mp4": "http://videos.workday.com.s3.amazonaws.com/rising/2016/chicago/16128M_Conference_Highlights_EV_FINAL.mp4",
+    "webm": "http://videos.workday.com.s3.amazonaws.com/rising/2016/chicago/16128M_Conference_Highlights_EV_FINAL.webm",
+    "ogg": "http://videos.workday.com.s3.amazonaws.com/rising/2016/chicago/16128M_Conference_Highlights_EV_FINAL.ogv",
+    "iframe": "http://www.youtube.com/embed/tCuugo3dwho?rel=0&amp;showinfo=0&amp;modestbranding=1&amp;hd=1&amp;autohide=1&amp;wmode=opaque&amp;autoplay=0"
+  }, {
+    "id": "Apirio",
+    "mp4": "http://videos.workday.com.s3.amazonaws.com/rising/2016/chicago/16128M_Conference_Highlights_EV_FINAL.mp4",
+    "webm": "http://videos.workday.com.s3.amazonaws.com/rising/2016/chicago/16128M_Conference_Highlights_EV_FINAL.webm",
+    "ogg": "http://videos.workday.com.s3.amazonaws.com/rising/2016/chicago/16128M_Conference_Highlights_EV_FINAL.ogv",
+    "iframe": "http://www.youtube.com/embed/tCuugo3dwho?rel=0&amp;showinfo=0&amp;modestbranding=1&amp;hd=1&amp;autohide=1&amp;wmode=opaque&amp;autoplay=0"
+  }],
+  "reference": [{
+    "id": "Accenture",
+    "title": "Contact Us",
+    "body": "Still having questions? Use the links below to emial the Workday Rising team.",
+    "links": [
+      "<a href=\"#\">Registration</a>",
+      "<a href=\"#\">Prospective Customers</a>",
+      "<a href=\"#\">Sponsoring Partners</a>",
+      "<a href=\"#\">Analysts</a>",
+      "<a href=\"#\">Media</a>"
+    ]
+  }]
+}

@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+/dist
+/designs
+*.ai
+/scss-lint-report.xml
+sassdoc/

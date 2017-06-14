@@ -1,0 +1,131 @@
+.hero {
+  min-height: 35vh;  
+  color: $white;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background: url('../img/background.jpg') no-repeat 50% 50%;
+  background-size: cover;
+  //background-attachment: fixed;
+  @media (min-width: $screen-md) {
+    min-height: 35vh; 
+  } @media (min-width: $screen-lg) {
+    min-height: 45vh;
+  }
+  h1 {
+    margin: auto;
+    color: $white;
+    text-shadow: 0 2px 8px rgba($black,1);
+    font-family: 'Permanent Marker', cursive;
+    z-index: 100;
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    opacity: .65;
+    transform: translate(-50%,-50%);
+  }
+  .hero-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 0;
+  }
+  .inner-container {
+    width: 100%;
+    @include clearfix();
+  }
+
+  .hero-content {
+    @media (min-width: $screen-sm) {
+      text-align: left;
+      max-width: 430px;
+
+      .heading {
+        font-size: 28px;
+        font-weight: $base-font-weight-light;
+        color: currentColor;
+      }
+      p {
+        font-size: 16px;
+        font-weight: $base-font-weight;
+        color: currentColor;
+      }
+    }
+    @media (min-width: $screen-md) {
+      .heading {
+        font-size: 54px;
+        font-weight: $base-font-weight-light;
+      }
+      p {
+        font-size: 20px;
+        font-weight: $base-font-weight;
+      }
+    }
+
+    a {
+      color: currentColor;
+      font-size: 14px;
+    }
+  }
+  &.homepage {
+
+    .hero-content {
+      z-index: 100;
+      max-width: 400px;
+      text-align: center;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%,-50%);
+      @media (min-width: $screen-sm) {
+        max-width: 400px;
+      }
+      @media (min-width: $screen-lg) {
+        text-align: left;
+        left: 11.5%;
+        transform: translate(0,-50%);
+      }
+      a {
+        color: $white;
+      }
+    }
+    video {
+      z-index: 0;
+    }
+  }
+  .cycle-carousel {
+    min-height: 320px;
+    @media (min-width: $screen-sm) {
+      min-height: 480px;
+    }
+    @media (min-width: $screen-md) {
+      min-height: 700px;
+    }
+    .slide {
+      height: 100%;
+      width: 100%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      .heading,
+      p {
+        color: currentColor;
+      }
+      video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}

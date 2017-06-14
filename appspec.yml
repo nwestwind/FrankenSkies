@@ -1,0 +1,10 @@
+version: 0.0
+os: linux
+files:
+  - source: dist
+    destination: /data/rising
+permissions:
+  - object: /data/rising
+    pattern: "**"
+    owner: ingeniuxsftp
+    group: ingeniuxsftp
