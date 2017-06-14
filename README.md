@@ -31,7 +31,4 @@ Builds all files and folders and launches server
 
   $ grunt develop
 
-
-
-
 [logo]: http://www.thewestwindproject.com/
