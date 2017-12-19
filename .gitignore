@@ -5,3 +5,4 @@ node_modules
 *.ai
 /scss-lint-report.xml
 sassdoc/
+package-lock.json
