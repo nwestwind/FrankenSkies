@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files:
   - source: dist
-    destination: /data/rising
+    destination: /data/frankenskiesthemovie
 permissions:
-  - object: /data/rising
+  - object: /data/frankenskiesthemovie
     pattern: "**"
-    owner: ingeniuxsftp
-    group: ingeniuxsftp
+    owner: frankenskiesthemovie
+    group: frankenskiesthemovie

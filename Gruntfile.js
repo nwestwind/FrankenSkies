@@ -146,7 +146,7 @@ module.exports = function(grunt) {
       options: {
         ui: false,
         watchTask: true,
-        proxy: 'frankenskies',
+        proxy: 'frankenskies/',
         port: 3010
       },
       develop: {

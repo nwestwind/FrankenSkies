@@ -1,10 +1,3 @@
-// svg png swap if svg is not supported
-if (!Modernizr.svg) {
-	$('img[src*="svg"]').attr('src', function () {
-		return $(this).attr('src').replace('.svg', '.png');
-	});
-}
-
 var fs = fs || {};
 fs.skies = fs.skies || {};
 
@@ -99,7 +92,7 @@ fs.skies.scroll = {
 				var self = this,
 					lastId,
 					topMenu = $("nav"),
-					topMenuHeight = topMenu.outerHeight()+15,
+					topMenuHeight = parseInt(topMenu.outerHeight(true))+15,
 					// All list items
 					menuItems = topMenu.find("a"),
 					// Anchors corresponding to menu items
@@ -120,13 +113,13 @@ fs.skies.scroll = {
 						if(fs.skies.setup.state.win.width() >= 992) {
 			 
 						if($(document).scrollTop() > 0) {
-								fs.skies.setup.state.header.addClass('scroll');
-								fs.skies.setup.state.body.addClass('scroll');
+							fs.skies.setup.state.header.addClass('scroll');
+							fs.skies.setup.state.body.addClass('scroll');
 
 						} else {
-								fs.skies.setup.state.header.removeClass('scroll');
-								fs.skies.setup.state.body.removeClass('scroll');
-								$('.more-scroll').removeClass('scrolled');
+							fs.skies.setup.state.header.removeClass('scroll');
+							fs.skies.setup.state.body.removeClass('scroll');
+							$('.more-scroll').removeClass('scrolled');
 						}
 								
 						}
@@ -161,26 +154,46 @@ fs.skies.scroll = {
 				});
 			// Bind click handler to menu items
 			// so we can get a fancy scroll animation
-			// menuItems.click(function(e){
-			// 	var href = $(this).attr("href"),
-			// 			offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+1;
-			// 	$('html, body').stop().animate({ 
-			// 			scrollTop: offsetTop
-			// 	}, 300);
-			// 	e.preventDefault();
-			// });
+			menuItems.click(function(e){
+				var href = $(this).attr("href"),
+					offsetTop = href === "#" ? 0 : $(href).offset().top;
+				$('html, body').stop().animate({ 
+					scrollTop: offsetTop
+				}, 300);
+				// console.log(offsetTop);
+				// e.preventDefault();
+			});
+		}
+};
+// back to top
+fs.skies.backTop = {
+		state: {
+			namespace: 'backTop'
+		},
+
+		init: function() {
+			this.listen();
+		},
+
+		listen: function () {
+			var self = this,
+			topMenu = $("nav"),
+			topMenuHeight = parseInt(topMenu.outerHeight(true));
+
+			$('.back-to-top').on('click', function() {
+				var offsetTop = 0;
+				$('html, body').stop().animate({
+					 scrollTop: offsetTop
+				}, 300);
+			});
 		}
 };
 
 $(function(){
 	fs.skies.setup.init();
 	fs.skies.scroll.init();
-	//fs.skies.wayPoint.init();
-	$('.back-to-top').on('click', function() {
-			var offsetTop = 0;
-			$('html, body').stop().animate({
-				 scrollTop: offsetTop
-			}, 300);
-		});
+	fs.skies.backTop.init();
+	//fs.skies.wayPoint.init(); 
+ 
 });
  

@@ -11,7 +11,8 @@
       		<source class="wd-modal-ogg" src="" type='video/ogg; codecs="theora, vorbis"'>
       		<iframe class="wd-modal-iframe" src="" allowfullscreen></iframe>
       	</video>
-      	<iframe id="modal-video-iframe" src="" allowfullscreen></iframe>
+        <iframe id="modal-video-iframe" src="https://www.youtube-nocookie.com/embed/zNeOTOytEeA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+      	<!-- <iframe id="modal-video-iframe" src="" allowfullscreen></iframe> -->
       </div>
     </div>
   </div>

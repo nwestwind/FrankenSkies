@@ -5,6 +5,7 @@ footer {
   height: 250px; 
   padding: 3em 0;
   color: $white;
+  z-index: 9999;
   .footer-links {
     a {
       color: $white;

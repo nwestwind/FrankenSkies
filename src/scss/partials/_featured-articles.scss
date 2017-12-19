@@ -1,0 +1,14 @@
+.featured-articles {
+	margin: 0;
+	padding: 0;
+	.article-details {
+		@include set-font-size(14px, 1.25);
+	}
+	li {
+		@include padding-leader(2);
+		@include padding-trailer(2);
+	}
+	li + li {
+		border-top: 1px solid rgba($black, .35);
+	}
+}

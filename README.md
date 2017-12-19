@@ -3,7 +3,7 @@
 
 
 ## Requirements
-  - Setup authentication to Workday Github via SSH
+  - Setup authentication to Github via SSH
   - Node
   - Grunt-CLI
   - MAMP Pro or WAMP
@@ -13,7 +13,7 @@
   $ npm install
 
   Create VirtualHost to host from 
-  $ LOCATION TO PROJECT DIRECTORY/frankenskies/dist
+  $ "LOCATION TO PROJECT DIRECTORY"/frankenskies/dist
 
   and add to hosts file:
   $ 127.0.0.1 frankenskies
