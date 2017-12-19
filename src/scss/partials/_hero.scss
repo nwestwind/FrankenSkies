@@ -1,5 +1,5 @@
 .hero {
-  min-height: 35vh;  
+  min-height: 100vh;  
   color: $white;
   padding-right: 0;
   padding-bottom: 0;
@@ -10,26 +10,29 @@
   display: flex;
   justify-content: left;
   align-items: center;
-  background: url('../img/background.jpg') no-repeat 50% 50%;
+  // background: url('../img/background.jpg') no-repeat 50% 50%;
   background-size: cover;
-  //background-attachment: fixed;
-  @media (min-width: $screen-md) {
-    min-height: 35vh; 
-  } @media (min-width: $screen-lg) {
-    min-height: 45vh;
-  }
-  h1 {
-    margin: auto;
-    color: $white;
-    text-shadow: 0 2px 8px rgba($black,1);
-    font-family: 'Permanent Marker', cursive;
-    z-index: 100;
-    position: absolute;
-    margin: auto;
-    top: 50%;
-    left: 50%;
-    opacity: .65;
+  
+  .hero-content { 
     transform: translate(-50%,-50%);
+    top: 50%; 
+    position: absolute;
+    left: 50%;
+    margin: auto;
+    text-align: center;
+    z-index: 100;
+    h1 {      
+      color: $white;
+      text-shadow: 0 2px 8px rgba($black,1);
+      font-family: 'Permanent Marker', cursive;
+      opacity: .65;
+      margin-bottom: .35em;
+    }
+    .btn {
+      margin: 1em auto;
+      text-align: center;
+      display: inline-block;
+    }
   }
   .hero-video {
     position: absolute;
@@ -42,61 +45,28 @@
     width: 100%;
     @include clearfix();
   }
-
-  .hero-content {
-    @media (min-width: $screen-sm) {
-      text-align: left;
-      max-width: 430px;
-
-      .heading {
-        font-size: 28px;
-        font-weight: $base-font-weight-light;
-        color: currentColor;
-      }
-      p {
-        font-size: 16px;
-        font-weight: $base-font-weight;
-        color: currentColor;
-      }
-    }
-    @media (min-width: $screen-md) {
-      .heading {
-        font-size: 54px;
-        font-weight: $base-font-weight-light;
-      }
-      p {
-        font-size: 20px;
-        font-weight: $base-font-weight;
-      }
-    }
-
-    a {
-      color: currentColor;
-      font-size: 14px;
-    }
-  }
   &.homepage {
 
-    .hero-content {
-      z-index: 100;
-      max-width: 400px;
-      text-align: center;
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      transform: translate(-50%,-50%);
-      @media (min-width: $screen-sm) {
-        max-width: 400px;
-      }
-      @media (min-width: $screen-lg) {
-        text-align: left;
-        left: 11.5%;
-        transform: translate(0,-50%);
-      }
-      a {
-        color: $white;
-      }
-    }
+    // .hero-content {
+    //   z-index: 100;
+    //   max-width: 400px;
+    //   text-align: center;
+    //   position: absolute;
+    //   left: 50%;
+    //   top: 50%;
+    //   transform: translate(-50%,-50%);
+    //   @media (min-width: $screen-sm) {
+    //     max-width: 400px;
+    //   }
+    //   @media (min-width: $screen-lg) {
+    //     text-align: left;
+    //     left: 11.5%;
+    //     transform: translate(0,-50%);
+    //   }
+    //   a {
+    //     color: $white;
+    //   }
+    // }
     video {
       z-index: 0;
     }

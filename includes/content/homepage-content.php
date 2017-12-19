@@ -1,23 +1,35 @@
+<section class="black video panel">
+	<a id="watch" class="anchor"></a>
+	<div class="row">
+		<div class="col s10 offset-s1">			 
+			<div class="sixteen-nine"> 
+				<iframe src="https://player.vimeo.com/video/222928194" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<!-- <iframe src="https://www.youtube-nocookie.com/embed/zNeOTOytEeA?rel=0&amp;controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
+			</div>
+		</div>
+	</div> 
+</section>
+
 <section class="white">
 	<a id="trailer" class="anchor"></a>
 	<div class="inner-container">
 		<div class="intro">
 			<i class="fa fa-film h1" aria-hidden="true"></i>
-			<h3 class="heading">FrankenSkies Trailer </h3>
+			<h3 class="heading">FrankenSkies Trailers</h3>
 			<p>FrankenSkies is a feature length documentary film about the Solar Geongineering Governance Regime.</p>
 		</div>
 		<div class="row">
 			<div class="col s12 m6">
-			<div class="video-container">
-				<div class="sixteen-nine"> 
-					<iframe src="https://www.youtube-nocookie.com/embed/N9X7tqx9fNQ?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>	
+				<div class="video-container">
+					<div class="sixteen-nine"> 
+						<iframe src="https://www.youtube-nocookie.com/embed/N9X7tqx9fNQ?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>	
+					</div>
 				</div>
-			</div>
 			</div>
 		 	<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/RLuW7eOPx2o?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/UhJUMXWv2OU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
@@ -33,7 +45,7 @@
 				<p>A shocking informative film on climate engineering, frequency control and CIA manipulation, the film's narrative unfolds through a historical timeline of experimentation on humanity, bringing us to a modern day laboratory that encompasses the air we breath and dictates when and where the sun shall shine, or not...</p>
 			</div>
 			<div class="col s12 m5">				
-				<iframe class='gfm-media-widget' image='0' coinfo='1' width='100%' height='100%'  id='FrankenSkies'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
+				<!-- <iframe class='gfm-media-widget' image='0' coinfo='1' width='100%' height='100%'  id='FrankenSkies'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script> -->
 				<div class="col s12">  
 					<h4>Special Thanks</h4>
 					<ul>
@@ -64,7 +76,7 @@
 	</div>
 </section>
 
-<section class="gray">
+<!-- <section class="gray">
 	<a id="dates" class="anchor"></a>
 	<div class="inner-container">
 		<div class="intro">
@@ -92,9 +104,9 @@
 			</div>			
 		</div>
 	</div>
-</section>
+</section> -->
 
-<section class="gradient">
+<section class="gradient yellow panel">
 	<a id="about" class="anchor"></a>
 	<div class="inner-container">
 		<div class="intro">
@@ -144,68 +156,107 @@
 				<h4 class="heading"><i class="fa fa-film" aria-hidden="true"></i> Related Video</h4>
 				<hr>				
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m8 offset-m2">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/euqn-j2iUYI?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/IirWyOvuWYA?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6">
+				<div class="video-container">
+					<div class="sixteen-nine"> 
+						<iframe src="https://www.youtube-nocookie.com/embed/KXyejuSI_ag?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6">
+				<div class="video-container">
+					<div class="sixteen-nine"> 
+						<iframe src="https://www.youtube-nocookie.com/embed/5S2_euB433w?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6">
+				<div class="video-container">
+					<div class="sixteen-nine"> 
+						<iframe src="https://www.youtube-nocookie.com/embed/WgRci7FGBTw?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/h9khb7KElMU?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/euqn-j2iUYI?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/HqSEiQhCNfI?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/h9khb7KElMU?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
+				<div class="video-container">
+					<div class="sixteen-nine"> 
+						<iframe src="https://www.youtube-nocookie.com/embed/HqSEiQhCNfI?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>			
+			</div>
+			<div class="col s12 m6">
 				<div class="video-container">
 						<div class="sixteen-nine"> 
-							<iframe src="https://www.youtube-nocookie.com/embed/YL_ZcrolT9Q?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+							<iframe src="https://www.youtube-nocookie.com/embed/YL_ZcrolT9Q?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 						</div>
 					</div>			
 				</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/272nLI89PlU?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/272nLI89PlU?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/qfYdRG-dluo?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/qfYdRG-dluo?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/JxQp8qLDKJI?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/JxQp8qLDKJI?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/QkpWJMlZnMY?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/QkpWJMlZnMY?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
 			</div>
-			<div class="col s12 m6 l4">
+			<div class="col s12 m6">
 				<div class="video-container">
 					<div class="sixteen-nine"> 
-						<iframe src="https://www.youtube-nocookie.com/embed/Zrx2IawvUZw?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube-nocookie.com/embed/Zrx2IawvUZw?rel=0&amp;controls=0&amp;showinfo=0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>			
+			</div>
+		</div>
+		<div class="row">
+			<div class="col s12">
+				<h4 class="heading"><i class="fa fa-newspaper-o" aria-hidden="true"></i> Featured Articles</h4>
+				<hr>
+				<ul class="featured-articles">
+					<li><a href="http://www.thelibertybeacon.com/tlbtv-eradicating-programmed-ignorance-geoengineering-vaccines-more/" rel="external" target="_blank">TLBTV: Eradicating Programmed Ignorance – Geoengineering, Vaccines &amp; More</a><br><span class="article-details"><a href="http://www.thelibertybeacon.com" rel="external" target="_blank">The Liberty Beacon</a> | September 12, 2017</span><br>Today we welcome a guest who personifies activism, a guest who has a solid knowledge foundation in the pillars of health tyranny being perpetrated and perpetuated on humanity … with special emphasis on the good old USA. <a href="http://www.thelibertybeacon.com/tlbtv-eradicating-programmed-ignorance-geoengineering-vaccines-more/" rel="external" target="_blank">Read more</a></li>
+					<li><a href="http://www.thelibertybeacon.com/solar-geoengineering-regime-designed-block-sun/" rel="external" target="_blank">The Solar GeoEngineering Regime Designed To Block Out Your Sun</a><br><span class="article-details"><a href="http://www.thelibertybeacon.com" rel="external" target="_blank">The Liberty Beacon</a> | January 18, 2017</span><br>A group of climate scientists are currently advocating a ‘strike first’ preemptive move against climate change and global warming although you probably won’t have heard much about it. The plan is to block the sun, akin to mimicking a volcanic eruption, which is why it’s called The Mount Pinatubo Effect which would implement an ongoing aerosol injection campaign in the atmosphere in order to veil incoming SUNLIGHT. <a href="http://www.thelibertybeacon.com/solar-geoengineering-regime-designed-block-sun/" rel="external" target="_blank">Read more</a></li>
+					<li><a href="http://www.thelibertybeacon.com/ordinary-guy-turned-anti-geoengineering-activist/" rel="external" target="_blank">An Ordinary Guy Turned Anti GeoEngineering Activist</a><br><span class="article-details"><a href="http://www.thelibertybeacon.com" rel="external" target="_blank">The Liberty Beacon</a> | October 14, 2016</span><br>Most of us were not born activists, for many of us it was an awakening of sorts, perhaps a gradual metamorphosis and a journey.  It has been such a journey for Matt Landman. <a href="http://www.thelibertybeacon.com/ordinary-guy-turned-anti-geoengineering-activist/" rel="external" target="_blank">Read more</a></li>		
+				</ul>
 			</div>
 		</div>
 		<div class="row">
@@ -214,21 +265,25 @@
 				<hr>
 				<ul>
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.actualactivists.com/" target="_blank">ActualActivists.com</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://weatherwar101.com/" target="_blank">WeatherWar101.com</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.thelibertybeacon.com/" target="_blank">TheLibertyBeacon.com</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://wakeup-world.com/" target="_blank">Wakeup-World.com</a></li>
+					
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://stopsprayingus.com" target="_blank">StopSprayingUs.com</a></li>
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.aircrap.org/2016/12/21/franken-skies-new-film/" target="_blank">AirCrap.org</a></li>
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://weathermodificationhistory.com/" target="_blank">WeatherModificationHistory.com</a></li>
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://byebyebluesky.com" target="_blank">ByeByeBlueSky.com</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://climateviewer.com" target="_blank">ClimateViewer.com</a></li>
 					<li><i class="fa fa-external-link" aria-hidden="true"></i> &nbsp;&nbsp;<a href="http://skywatchmap.org" target="_blank">SkyWatchMap.org</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.climatechangeagenda.com" target="_blank">ClimateChangeAgenda.com</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.geoengineeringwatch.org" target="_blank">GeoEngineeringWatch.org</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.climatechangeagenda.com" target="_blank">ClimateChangeAgenda.com</a></li>				
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.crrow777radio.com/" target="_blank">Crow777 Radio</a></li>
-				</ul>
+				</ul> 
+			</div>
+			<div class="col s12 m6">
 				<div class="img-container">
 					<a href="http://www.actualactivists.com/" target="_blank"><img src="img/actual-activists-logo.png" class="img-responsive" alt="Actual Activists"></a>
 				</div>
-			</div>
-			<div class="col s12 m6">
-
+<!-- 
 				<h4 class="heading"><i class="fa fa-comment-o" aria-hidden="true"></i> What others are saying</h4>
 				<hr>
 				<ul class="quotes">					
@@ -238,7 +293,7 @@
 					<li>Every <strong>great film</strong> should seem new every time you see it."<br>&ndash; Roger Ebert</li>
 					<li>Without writers, stories would not be written,
 Without actors, stories could not be <strong>brought to life</strong>."<br>&ndash; Angie-Marie Delsante</li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</div>

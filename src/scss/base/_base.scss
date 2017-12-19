@@ -31,6 +31,16 @@ body {
   font-smoothing: antialiased;
   @include stack-spacing();
   &.scroll {}
+  > video.background {
+    background: $black;
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+  }
 }
 // sticky footer
 .page-wrap {
@@ -135,7 +145,7 @@ a {
 		border: 0 none transparent;
 	}
   &[rel="external"] {
-    padding-right: 40px;
+    // padding-right: 40px;
     &::after {
       content: '';
       // background-image: url('../img/icon-external-link.svg');
@@ -187,6 +197,7 @@ ul {
   margin: 0 auto; 
   height: 100%;
   position: relative;
+  z-index: 9999;
   @include clearfix();
 }
 
@@ -220,7 +231,7 @@ hr {
   position: relative;
   visibility: hidden;
   display: block;
-  top: -95px;
+  top: -100px;
 }
 
 blockquote {

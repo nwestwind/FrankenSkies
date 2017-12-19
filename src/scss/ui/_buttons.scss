@@ -27,9 +27,11 @@
     z-index: 100;
     right: 20px;
     bottom: 20px;
+    color: $black;
     &::after {
-      border-right: 2px solid $white;
-      border-top: 2px solid $white;
+      transition: all 250ms ease;
+      border-right: 2px solid $black;
+      border-top: 2px solid $black;
       content: ""; 
       display: block;
       height: 8px;
@@ -41,6 +43,10 @@
       width: 8px;
     }
     &:hover {
+      &::after {
+        border-right: 2px solid $white;
+        border-top: 2px solid $white;
+      }
       background-color: rgba($dark-gray, 1);
     }
   }
@@ -77,6 +83,14 @@
       border-color: $white !important;
     }
 	}
+  &.black {
+    color: $white;
+    background-color: rgba($black, .75);
+    &:hover {
+      background-color: rgba($black, 1);
+      color: $white;
+    }
+  }
   &.blue {
     color: $white;
     border: 2px solid transparent;

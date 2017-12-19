@@ -6,13 +6,26 @@ include "/global/functions.php"
 	<head>
 
     <title>FrankenSkies Documentary</title>
-    <meta name="keywords" content="FrankenSkies" />
-    <meta name="description" content="FrankenSkies is an 80 minute social change documentary regarding the Solar Geoengineering/Chemtrail agenda that affects every living being on earth. The struggle of bringing awareness to this subject, despite the obstacles of a socially engineered populace and the military industrial complex with its endless resources, is palpable in this awakening truth feature." />
-    <meta property="og:description" content="FrankenSkies is an 80 minute social change documentary regarding the Solar Geoengineering/Chemtrail agenda that affects every living being on earth. The struggle of bringing awareness to this subject, despite the obstacles of a socially engineered populace and the military industrial complex with its endless resources, is palpable in this awakening truth feature." />
+   
+	include "/global/meta.php"
 
-include "/global/meta.php"
+	<link href="css/main.css" rel="stylesheet">
+	
+    <script src="js/global-scripts-head.js"></script>
+    <script src="https://use.fontawesome.com/03c875fb8c.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106997787-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments)};
+        gtag('js', new Date());
 
+        gtag('config', 'UA-106997787-1');
+    </script>
   </head>
   <body id="<?php echo $without_extension; ?>">
+
     <div class="outer-container">
-      <div class="page-wrap">
+<!--       <div class="page-wrap"> -->

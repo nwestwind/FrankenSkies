@@ -1,7 +1,7 @@
 {
-  "name": "WorkdayRising2017",
+  "name": "frankenskiesthemovie",
   "version": "1.0.0",
-  "description": "Workday Rising 2017",
+  "description": "Frankenskies the Movie",
   "main": "Gruntfile.js",
   "devDependencies": {
     "browser-sync": "^2.18.12",
@@ -15,7 +15,7 @@
     "grunt-contrib-uglify": "^0.9.2",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-includes": "^0.5.1",
-    "grunt-sass": "^1.2.0",
+    "grunt-sass": "^2.0.0",
     "grunt-sassdoc": "^2.0.2",
     "jquery-countdown": "^2.2.0",
     "load-grunt-tasks": "^3.4.0",
@@ -26,10 +26,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Workday",
-    "Rising"
+    ""
   ],
-  "author": "Workday Marketing Technology",
+  "author": "TheWestwindProject",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
 }
