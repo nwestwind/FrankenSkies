@@ -76,36 +76,34 @@
 	</div>
 </section>
 
-<!-- <section class="gray">
-	<a id="dates" class="anchor"></a>
+<section class="gray">
+	<a id="events" class="anchor"></a>
 	<div class="inner-container">
 		<div class="intro">
 			<i class="fa fa-bullhorn" aria-hidden="true"></i>
-			<h3 class="heading">Upcoming Screenings!</h3>
+			<h3 class="heading">Upcoming Events</h3>
 		</div>
 		<hr>
 		<div class="row">
 			<div class="col s12">
 				<div class="row">
 					<div class="col s12 m7"> 
-						<h4 class="heading"><i class="fa fa-calendar" aria-hidden="true"></i> 6:00PM - June 17th, 2017</h4>
+						<h4 class="heading"><i class="fa fa-calendar" aria-hidden="true"></i> 3rd Annual Global Chemtrails Summit</h4>
+						<p>Saturday May 5th, 2018</p>
 						<address>
-							<a href="http://www.northernlightstheatrepub.com/"><i class="fa fa-map-marker" aria-hidden="true"></i> Northern Lights Movie Theater &amp; Eatery</a><br>
-							3893 Commercial St SE<br>
-							Salem, OR 97302
+							<a href="https://www.google.com/maps/place/Tucson,+AZ/@32.1947534,-110.9277259,18935m/data=!3m1!1e3!4m5!3m4!1s0x86d665410b2ced2b:0x73c32d384d16c715!8m2!3d32.2217429!4d-110.926479"><i class="fa fa-map-marker" aria-hidden="true"></i>Tucson, Arizona
 						</address>
 					</div>
 					<div class="col s12 m5">
 						<div class="img-container lg">
-							<a href="https://www.google.com/maps/place/Northern+Lights+Movie+Theater+%26+Eatery/@44.9000261,-123.0399353,1246m/data=!3m1!1e3!4m13!1m7!3m6!1s0x54c00750294d8f81:0x566cce5cc40a65d6!2s3893+Commercial+St+SE,+Salem,+OR+97302!3b1!8m2!3d44.8999303!4d-123.0399348!3m4!1s0x54c007502952b0ad:0xad01bd3e8ff4b422!8m2!3d44.8999303!4d-123.0399348" target="_blank"><img src="img/map-theater.jpg" class="img-responsive" alt="Northern Lights Movie Theater & Eatery"></a>
+							<a href="https://www.google.com/maps/place/Tucson,+AZ/@32.1947534,-110.9277259,18935m/data=!3m1!1e3!4m5!3m4!1s0x86d665410b2ced2b:0x73c32d384d16c715!8m2!3d32.2217429!4d-110.926479" target="_blank"><img src="img/arizona.jpg" class="img-responsive" alt="Tucson, Arizona"></a>
 						</div>
-					</div>								
+					</div>
 				</div>
-			</div>			
+			</div>
 		</div>
 	</div>
-</section> -->
-
+</section>
 <section class="gradient yellow panel">
 	<a id="about" class="anchor"></a>
 	<div class="inner-container">
