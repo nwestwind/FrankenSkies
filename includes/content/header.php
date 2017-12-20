@@ -1,4 +1,4 @@
-<header id="home">
+<header>
 	<div class="inner-container">
 		<a href="http://frankenskiesthemovie.com/" class="logo">F<span class="f">ranken</span>S<span class="s">kies</span></a>
 		<nav>
