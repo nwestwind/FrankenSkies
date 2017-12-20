@@ -282,7 +282,15 @@
 			<div class="col s12 m6">
 				<div class="img-container">
 					<a href="http://www.actualactivists.com/" target="_blank"><img src="img/actual-activists-logo.png" class="img-responsive" alt="Actual Activists"></a>
+
 				</div>
+				<h4>Activist's Assets</h4>
+				<hr>
+				<ul>
+					<li>
+					<a href="http://www.frankenskiesthemovie.com/docs/chemtrails-accidental-geoengineering-ice-haze.pdf" target="_blank" download>Download Flyers</a>
+					</li>
+				</ul>
 <!-- 
 				<h4 class="heading"><i class="fa fa-comment-o" aria-hidden="true"></i> What others are saying</h4>
 				<hr>
