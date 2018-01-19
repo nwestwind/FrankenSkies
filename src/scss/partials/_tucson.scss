@@ -1,0 +1,46 @@
+#tucson {
+	font-family: 'PT Sans', sans-serif;
+	h1,
+	.h1 {
+	font-family: 'Passion One';
+	@include set-font-size(28px,4);
+	@media (min-width: $screen-sm) {
+		@include set-font-size(72px,4);
+	}
+	@media (min-width: $screen-md) {
+		@include set-font-size(88px,4);
+	}
+	@media (min-width: $screen-lg) {
+		@include set-font-size(92px,4);
+	}
+		> span {
+			@include set-font-size(14px);
+		}
+	}
+	h2,
+	.h2,
+	h3,
+	.h3,
+	h4,
+	.h4,
+	h5,
+	.h6 {
+		font-family: 'PT Sans', sans-serif;
+	}
+	section {
+		&.sign {
+			//background: $blue url('http://www.chicoskywatch.org/images/posters/stopsign_full_lg.jpg') no-repeat 0 0;
+			background: url('../img/stopsign.jpg') no-repeat bottom right;
+			background-size: cover;
+			@media (min-width: $screen-sm) {
+				background-position: 25% 0;
+			}
+			@media (min-width: $screen-md) {
+				background-position: 0 0;
+			}
+			@media (min-width: $screen-lg) {
+				background-position: 0 50%;
+			}
+		}
+	}
+}
