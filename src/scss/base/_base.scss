@@ -72,6 +72,9 @@ h6,
   font-family: 'Passion One';
   font-weight: $base-font-weight-semi-bold;
   color: currentColor;
+  &.light {
+    font-weight: $base-font-weight-light;
+  }
 }
 
 h1,
@@ -82,8 +85,8 @@ h5,
 h6 {
   margin-top: 0;
   @include trailer(.5);
-}
 
+}
 
 h1,
 .h1 {
@@ -130,13 +133,19 @@ h6,
   font-weight: $base-font-weight-bold;
 }
 
+.light {
+  font-weight: 300 !important;
+}
+.center {
+  text-align: center;
+}
 p {
   margin-top: 0;
   @include trailer();
 }
 
 a {
-  color: $light-blue;
+  color: currentColor;
   font-weight: $base-font-weight-bold;
 	outline-style: none;
   text-decoration: none;
