@@ -1,21 +1,21 @@
 #tucson {
 	font-family: 'PT Sans', sans-serif;
+	.hero {
+		background: url('../img/tucson.jpg') no-repeat 50% 50%;
+  		background-size: cover;
+  		.hero-content {
+  			h1 {
+				font-weight: $base-font-weight-bold;
+				line-height: 1;
+				> span {
+					font-size: 14px;
+				}
+			}
+		}
+	}
 	h1,
 	.h1 {
-	font-family: 'Passion One';
-	@include set-font-size(28px,4);
-	@media (min-width: $screen-sm) {
-		@include set-font-size(72px,4);
-	}
-	@media (min-width: $screen-md) {
-		@include set-font-size(88px,4);
-	}
-	@media (min-width: $screen-lg) {
-		@include set-font-size(92px,4);
-	}
-		> span {
-			@include set-font-size(14px);
-		}
+		
 	}
 	h2,
 	.h2,
@@ -30,7 +30,7 @@
 	section {
 		&.sign {
 			//background: $blue url('http://www.chicoskywatch.org/images/posters/stopsign_full_lg.jpg') no-repeat 0 0;
-			background: url('../img/stopsign.jpg') no-repeat bottom right;
+			background: url('../img/stopsign.jpg') no-repeat bottom center;
 			background-size: cover;
 			@media (min-width: $screen-sm) {
 				background-position: 25% 0;

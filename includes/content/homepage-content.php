@@ -36,34 +36,39 @@
 		</div>
 		<div class="row">
 			<div class="col s12 m7">
-				<p>FrankenSkies is an 80 minute social change documentary regarding the Solar Geoengineering/Chemtrail agenda that affects every living being on earth. The struggle of bringing awareness to this subject, despite the obstacles of a socially engineered populace and the military industrial complex with its endless resources, is palpable in this awakening truth feature.</p>
+				<p>FrankenSkies is an 80 minute social change documentary regarding the <a href="https://en.wikipedia.org/wiki/Solar_radiation_management" target="_blank_ rel="external">Solar Geoengineering</a>/Chemtrail agenda that affects every living being on earth. The struggle of bringing awareness to this subject, despite the obstacles of a socially engineered populace and the military industrial complex with its endless resources, is palpable in this awakening truth feature.</p>
+				
+				<p>An impeccably timed eye opening exposé, the film reveals the campaign to normalize chemical cloud formations via atmospheric aerosol dispersals. Up against a normalization timetable encompassing a controlled media and an indoctrinated educational and political system, activists ask the question : Is your silence your consent?</p>
+				<p>A shocking informative film on climate engineering, frequency control and CIA manipulation, the film's narrative unfolds through a historical timeline of experimentation on humanity, bringing us to a modern day laboratory that encompasses the air we breath and dictates when and where the sun shall shine, or not...</p>
+			</div>
+			<div class="col s12 m5">
 				<blockquote>
 					<p>He who controls the weather, controls the world.</p>
 					<p class="cite">&ndash; Lyndon B. Johnson</p>
+				</blockquote>  
+				<!-- <blockquote>
+					<p>Spray pollution to stop the warming.</p>
+					<p class="cite">&ndash; David Keith</p>
+				</blockquote>  -->
+				<blockquote>
+					<p>I know people accept the sky right now, because they're so used to it.</p>
+					<p class="cite">&ndash; Jack Falls-Rock</p>
 				</blockquote>
-				<p>An impeccably timed eye opening expose, the film reveals the campaign to normalize chemical cloud formations via atmospheric aerosol dispersals. Up against a normalization timetable encompassing a controlled media and an indoctrinated educational and political system, activists ask the question : Is your silence your consent?</p>
-				<p>A shocking informative film on climate engineering, frequency control and CIA manipulation, the film's narrative unfolds through a historical timeline of experimentation on humanity, bringing us to a modern day laboratory that encompasses the air we breath and dictates when and where the sun shall shine, or not...</p>
+				<!-- <h4>Special Thanks</h4>
+				<ul>
+					<li>Jonathan Macias</li>
+					<li>Don Lowcavage</li>
+					<li>Megan S Smith</li>
+					<li>Mear One &amp; Candice Lee</li>
+					<li>Donna Hone</li>
+					<li>Christopher Foster</li>
+					<li>James MacDonald</li>
+					<li>Farnoush B</li>
+					<li>S.O.S.</li>
+					<li>Tiffany Thurmond</li>
+					<li>Amanda White</li>
+				</ul> -->
 			</div>
-			<div class="col s12 m5">				
-				<!-- <iframe class='gfm-media-widget' image='0' coinfo='1' width='100%' height='100%'  id='FrankenSkies'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script> -->
-				<div class="col s12">  
-					<h4>Special Thanks</h4>
-					<ul>
-						<li>Jonathan Macias</li>
-						<li>Don Lowcavage</li>
-						<li>Megan S Smith</li>
-						<li>Mear One &amp; Candice Lee</li>
-						<li>Donna Hone</li>
-						<li>Christopher Foster</li>
-						<li>James MacDonald</li>
-						<li>Farnoush B</li>
-						<li>S.O.S.</li>
-						<li>Tiffany Thurmond</li>
-						<li>Amanda White</li>
-					</ul>
-				</div>
-			</div>
-
 		</div>
 		<div class="row">
 			<div class="col s12 m10 offset-m1">
@@ -87,17 +92,17 @@
 		<div class="row">
 			<div class="col s12">
 				<div class="row">
-					<div class="col s12 m7"> 
-						<h4 class="heading"><i class="fa fa-calendar" aria-hidden="true"></i> 3rd Annual Global Chemtrails Summit</h4>
-						<p>Saturday May 5th, 2018</p>
-						<address>
-							<a href="https://www.google.com/maps/place/Tucson,+AZ/@32.1947534,-110.9277259,18935m/data=!3m1!1e3!4m5!3m4!1s0x86d665410b2ced2b:0x73c32d384d16c715!8m2!3d32.2217429!4d-110.926479"><i class="fa fa-map-marker" aria-hidden="true"></i>Tucson, Arizona
-						</address>
+					<div class="col s5 m5">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4209.522446063236!2d-110.95436608483172!3d32.23286158113979!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86d671073fd973bf%3A0x3cca4d38cf8b3712!2s1303+E+University+Blvd%2C+Tucson%2C+AZ+85719!5e1!3m2!1sen!2sus!4v1516339929401" width="100%" style="min-height:400px;" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
-					<div class="col s12 m5">
-						<div class="img-container lg">
-							<a href="https://www.google.com/maps/place/Tucson,+AZ/@32.1947534,-110.9277259,18935m/data=!3m1!1e3!4m5!3m4!1s0x86d665410b2ced2b:0x73c32d384d16c715!8m2!3d32.2217429!4d-110.926479" target="_blank"><img src="img/arizona.jpg" class="img-responsive" alt="Tucson, Arizona"></a>
-						</div>
+					<div class="col s7 m7"> 
+						<h3>May 12th, 2018</h3>
+						<address>
+							<a href="https://goo.gl/maps/h4DU1Jswc7y" target="_blank" rel="external">
+							<h4 class="heading">Gallagher Theater - University of Arizona</h4>
+							1303 E University Blvd<br>
+							Tucson, AZ 85719</a>
+						</address>
 					</div>
 				</div>
 			</div>
@@ -109,7 +114,7 @@
 	<div class="inner-container">
 		<div class="intro">
 			<i class="fa fa-user-circle" aria-hidden="true"></i>
-			<h3 class="heading">About FrankenSkies documentary</h3>
+			<h3 class="heading">About the Filmmaker</h3>
 		</div>
 		<div class="row">
 			<div class="col s12 m7 push-m5">
@@ -129,7 +134,7 @@
 		</div>
 	</div>
 </section>
-
+<!-- 
 <section class="black">
 	<a id="donate" class="anchor"></a>
 	<div class="inner-container">
@@ -145,7 +150,7 @@
 		</div>
 	</div>
 </section>
-
+ -->
 <section class="white">
 	<a id="media" class="anchor"></a>
 	<div class="inner-container">
@@ -263,18 +268,10 @@
 				<hr>
 				<ul>
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.actualactivists.com/" target="_blank">ActualActivists.com</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://weatherwar101.com/" target="_blank">WeatherWar101.com</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.thelibertybeacon.com/" target="_blank">TheLibertyBeacon.com</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://wakeup-world.com/" target="_blank">Wakeup-World.com</a></li>
-					
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://stopsprayingus.com" target="_blank">StopSprayingUs.com</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.aircrap.org/2016/12/21/franken-skies-new-film/" target="_blank">AirCrap.org</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://weathermodificationhistory.com/" target="_blank">WeatherModificationHistory.com</a></li>
 					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://byebyebluesky.com" target="_blank">ByeByeBlueSky.com</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://climateviewer.com" target="_blank">ClimateViewer.com</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i> &nbsp;&nbsp;<a href="http://skywatchmap.org" target="_blank">SkyWatchMap.org</a></li>
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.climatechangeagenda.com" target="_blank">ClimateChangeAgenda.com</a></li>				
-					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.crrow777radio.com/" target="_blank">Crow777 Radio</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://stopsprayingus.com" target="_blank">StopSprayingUs.com</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://stopgeoengineeringtucson.com/" target="_blank">StopGeoengineeringTucson.com</a></li>
+					<li><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;&nbsp;<a href="http://www.climatechangeagenda.com" target="_blank">ClimateChangeAgenda.com</a></li>		
 				</ul> 
 			</div>
 			<div class="col s12 m6">

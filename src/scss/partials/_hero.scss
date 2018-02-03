@@ -10,9 +10,23 @@
   display: flex;
   justify-content: left;
   align-items: center;
-  // background: url('../img/background.jpg') no-repeat 50% 50%;
-  background-size: cover;
   
+  .scroll-down-btn {
+    display: block;
+    height: 2em;
+    width: 2em;
+    border: 1px solid $white;
+    border-radius: 50%;
+    opacity: .65;
+    position: absolute;
+    // background: rgba($white, .65);
+    bottom: 0;
+    left: 50%;
+    margin-left: -2em;
+    &::after {
+
+    }
+  }
   .hero-content { 
     transform: translate(-50%,-50%);
     top: 50%; 
@@ -21,14 +35,22 @@
     margin: auto;
     text-align: center;
     z-index: 100;
-    h1 {      
+    width: 75%;
+    h1.frankenskiesthemovie {      
       color: $white;
       text-shadow: 0 2px 8px rgba($black,1);
-      font-family: 'Permanent Marker', cursive;
-      opacity: .65;
-      margin-bottom: .35em;
+      // font-family: 'Permanent Marker', cursive;
+      background-image: url('../img/frankenskies.svg');
+      background-size: 100%;
+      min-height: 100px;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+      @include trailer(1);
+      text-indent: -999em;
+      // animation-delay: .5s;
     }
     .btn {
+      // animation-delay: 1s;
       margin: 1em auto;
       text-align: center;
       display: inline-block;

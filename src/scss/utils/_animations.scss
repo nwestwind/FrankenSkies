@@ -60,12 +60,12 @@
 
 
 @-webkit-keyframes showText {
-  0%   { -webkit-transform: translateY(10px); opacity: 0; }
-  100% { -webkit-transform: translateY(0px); opacity: 1; }
+  0%   { opacity: 0; }
+  100% { opacity: .75; }
 }
 @keyframes showText {
-  0%   { transform: translateY(10px); opacity: 0; }
-  100% { transform: translateY(0px); opacity: 1; }
+  0%   { opacity: 0; }
+  100% { opacity: .75; }
 }
 
 .scale {
