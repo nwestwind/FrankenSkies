@@ -2,12 +2,12 @@
     <button class="btn back-to-top"></button>
   	<footer>      
   		<div class="inner-container">
-  			
-        <a href="http://actualactivists.com/" target="_blank">ActualActivists.com</a>
+
+        <a href="http://actualactivists.com/" target="_blank" rel="external"><img class="img-responsive footer-logo" src="https://d2g8igdw686xgo.cloudfront.net/27159194_1516642301.6539_funddescription.jpg" alt="ActualActivist Logo"></a>
         
         <div class="social">
-          <a href="https://www.facebook.com/landman808" target="_blank" id="facebook">Facebook</a>
-  				<a href="https://www.youtube.com/watch?v=N9X7tqx9fNQ" target="_blank" id="youtube">YouTube</a>
+          <a href="https://www.facebook.com/landman808" target="_blank" id="facebook" rel="external">Facebook</a>
+  				<a href="https://www.youtube.com/watch?v=N9X7tqx9fNQ" target="_blank" id="youtube" rel="external">YouTube</a>
   			</div>
   			<p class="copyright">&copy;<?php echo date("Y");?> StopGeoEngineeringTucson.com - All Rights Reserved</p>
         <div class="footer-links"><a href="privacy.php">Privacy</a></div>        
@@ -24,6 +24,6 @@
     ga('send', 'pageview');
 
   </script>
-	<script src="js/global-scripts-tail.js" type="text/javascript"></script>
+	<script src="../js/global-scripts-tail.js" type="text/javascript"></script>
 	</body>
 </html>
