@@ -14,6 +14,7 @@ include "/global/functions.php"
     <script src="/js/global-scripts-head.js"></script>
     <script src="https://use.fontawesome.com/03c875fb8c.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106997787-1"></script>
     <script>
