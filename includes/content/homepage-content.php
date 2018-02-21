@@ -88,7 +88,6 @@
 			<i class="fa fa-bullhorn" aria-hidden="true"></i>
 			<h3 class="heading">Upcoming Events</h3>
 		</div>
-		<hr>
 		<div class="row">
 			<div class="col s12">
 				<div class="row">
