@@ -8,6 +8,7 @@
 			<h1 class="light show">The 3rd Annual Global&nbsp;Summit to Stop Geoengineering</h1>
 			<h2 class="light show">Gallagher Theater&mdash;Saturday May 12th, 2018</h2>
 			<h4 class="light show">University of Arizona - Tucson, Arizona</h4>
+			<!-- <a href="#live" class="btn green show">Watch the LiveStream</a> -->
 		</div>
 	</div>
 	<!-- <span class="scroll-down-btn"></span> -->
@@ -24,6 +25,106 @@
 				<h4 class="light">The idea is termed "solar geoengineering" and if the experiment is successful, full scale deployment will launch in an attempt to cool the planet by blocking out the sun permanently everyday.</h4>
 				<h4 class="light">Public opinion is not being considered.</h4>
 				<h4 class="light">Do <strong>YOU</strong> consent to solar geoengineering? <a href="https://twitter.com/intent/tweet?button_hashtag=WeDoNotConsent&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false" target="_blank" rel="external">Tweet #WeDoNotConsent</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h4>
+			</div>
+		</div>
+	</div> 
+</section> 
+
+<section class="gray">
+	<a id="videos" class="anchor"></a>
+	<div class="inner-container">
+		<div class="intro">
+			<h2>Event Videos</h2>
+		</div>
+		<div class="row">
+			<div class="col s12 m6"> John Knox
+				<div class="video-container">
+					<div class="sixteen-nine">
+						<iframe src="https://www.youtube-nocookie.com/embed/kodtQYvB0qA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6"> Clifford Carnicom
+				<div class="video-container">
+					<div class="sixteen-nine">
+						<iframe src="https://www.youtube-nocookie.com/embed/HkCY--Ieiko?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6"> Matt Landman
+				<div class="video-container">
+					<div class="sixteen-nine">
+						<iframe src="https://www.youtube-nocookie.com/embed/DpuRsz2SuRQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6"> Elana Freeland
+				<div class="video-container">
+					<div class="sixteen-nine">
+						<iframe src="https://www.youtube-nocookie.com/embed/kvDA-mgjiOk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="col s12 m6"> Patrick Roddie
+				<div class="video-container">
+					<div class="sixteen-nine">
+						<iframe src="https://www.youtube-nocookie.com/embed/Ua97L8oNZDY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<br>
+		<div class="intro">
+			<h2>Tucson Protest</h2>
+		</div>
+		<div class="row">
+			<div class="col s4"> 
+				<a data-fancybox="gallery" href="../img/gallery/lg/protest(1).jpg"><div class="img-container"><img src="../img/gallery/sm/protest(1).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4"> 
+				<a data-fancybox="gallery" href="../img/gallery/lg/protest(2).jpg"><div class="img-container"><img src="../img/gallery/sm/protest(2).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4"> 
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(5).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(5).jpg" class="img-responsive"></div></a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col s4"> 
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(4).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(4).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4">				
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(3).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(3).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4">
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(10).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(10).jpg" class="img-responsive"></div></a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col s4">
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(8).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(8).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4">
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(9).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(9).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4">				
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(6).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(6).jpg" class="img-responsive"></div></a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col s4">
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(13).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(13).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4">
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(7).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(7).jpg" class="img-responsive"></div></a>
+			</div>
+			<div class="col s4">
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(12).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(12).jpg" class="img-responsive"></div></a>
+			</div>
+		</div>
+		<div class="row">		
+			<div class="col s4">
+				<a data-fancybox="gallery" href="/img/gallery/lg/protest(11).jpg"><div class="img-container"><img src="/img/gallery/sm/protest(11).jpg" class="img-responsive"></div></a>
 			</div>
 		</div>
 	</div> 
@@ -48,13 +149,22 @@
 		</div>
 		<div class="row">
 			<div class="col s3 l4 center">
-				<div class="img-container"><img src="/img/tucson-terry.jpg" class="img-responsive"></div>
+				<div class="img-container"><img src="/img/tucson-clifford.jpg" class="img-responsive"></div>
 			</div>
 			<div class="col s9 l8">
-				<h3>Terry Lawton</h3>
-				<p>Activist, researcher, and speaker.</p>
-				<p>Founder of <a href="http://www.climatechangeagenda.com">ClimateChangeAgenda.com</a></p>
-				<p>Terry is from Ireland, he is an impassioned climate engineering activist and speaker.</p>
+				<h3>Clifford Carnicom</h3>				
+				<p>Research scientist</p>
+				<p>Founder and President of the <a href="https://carnicominstitute.org/wp/about/" rel="external" target="_blank">Carnicom Institute</a>, a non-profit research and educational organization that is devoted to environmental and health issues. Clifford also worked as a technical research scientist acting in a professional capacity supporting analysis and development of major Department of Defense physical and weapons modeling systems, with extensive computer programming and system application development experience. He has held a Top Secret/SCI clearance. He was appointed for and completed two years of intensive graduate level studies in mathematics, statistics, computer science, and geodesy under the auspices of the Department of Defense.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col s3 l4 center">
+				<div class="img-container"><img src="/img/tucson-john.jpg" class="img-responsive"></div>
+			</div>
+			<div class="col s9 l8">
+				<h3>John Knox</h3> 		
+				<p>John is an Los Angeles skywatch organizer <a href="http://laskywatch.com" rel="external" target="_blank">LASkyWatch.com</a>, fitness and nutrition coach, impassioned climate engineering activist and speaker.</p>
+					
 			</div>
 		</div>
 		<div class="row">
@@ -86,6 +196,21 @@
 		</div> 
 	</div> 
 </section>
+<section>
+	<a class="anchor" id="live"></a>
+	<div class="inner-container">
+		<div class="row">
+			<div class="col s12 text-center">
+				<h4>Watch the Global&nbsp;Summit to Stop Geoengineering LiveStream</h4>
+				<div class="video-container">
+					<div class="sixteen-nine">
+						<iframe id="ls_embed_1524526660" src="https://livestream.com/accounts/8370424/events/8173521/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false" frameborder="0" scrolling="no" allowfullscreen> </iframe><script type="text/javascript" data-embed_id="ls_embed_1524526660" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>
+</section>
 <section class="gray">
 	<a id="media" class="anchor"></a>
 	<div class="inner-container">
@@ -104,7 +229,7 @@
 		</div>
 	</div>
 </section>
-
+<!--
 <section class="black">
 	<a id="donate" class="anchor"></a>
 	<div class="inner-container">
@@ -117,41 +242,6 @@
 				<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='StopGeoengineering'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
 			</div>
 		</div>
-		<!-- <div class="row">
-			<div class="col s12 m6">
-				
-				<p>It's Official: Sky Will Be Sprayed in Geoengineering "Experiment," Blocking Sun for Climate Change.</p>
-				
-				<p>Harvard scientists taking geoengineering into the field.</p>
-				
-				<p>David&nbsp;Keith is announcing his geoengineering experiment is moving forward in late 2018 at World View Spaceport in Tucson, Arizona</p>
-								
-				<p>In response to this treason, I am hosting the 3rd Annual Summit To STOP Geoengineering in Tucson Arizona, May 12th at the Gallagher Theatre. The <strong>FREE</strong> event is a day of empowerment and inspiration with the best, most well researched, speakers on the subject from around the world presenting Truths on the Who, What, Why, Where, When &amp; How on Geoengineering.</p>
-				
-				<p>The event will be followed by a call to action where we will protest in 
-				Tucson at which point we will "Demand Unbiased Media Coverage".</p>
-
-				<p>From the day I realized something horrid was occurring in our skies, I was driven to stop it. I have since hosted various conferences, been a guest on over 40 radio shows/podcasts exposing the truth, and produced a successful documentary film, <a href="http://frankenskiesthemovie.com/" target="_blank" rel="external"><strong>FRANKENSKIES</strong></a>, detailing what is know as Geoengineering/Chemtrails.</p>
-
-				<p>As I strive to bring all Truths to the world, I have also launched the umbrella brand Actual Activists through which hundreds of activists around the world have been initiated with packages of flyers bringing awareness to the ongoing geoengineering campaign.</p><p>Please visit the website for more: <a href="http://www.ActualActivists.com" target="_blank" class="txt1" rel="nofollow noopener noreferrer">www.ActualActivists.com</a></p>          
-			</div>			
-			<div class="col s12 m6">
-				
-				<p>The goal is to raise enough awareness through the conference and subsequent protest in order to STOP the public goengineering experiment from occurring.</p>
-				
-				<h4>The fundraiser is an attempt to HELP with financing the conference expenditures and is as follows:</h4>
-				<p>Venue &amp; Audio Visual Technician Help Budget: <strong>$1,500</strong></p>
-				<p>Speakers Accommodations Help Budget: <strong>$1,100</strong></p>
-				<p>Speakers Travel Expenses Help Budget:<strong> $500</strong></p>
-				<p>Advertising and Promotions:<br>Street Team Formation and Promotions Budget (3 hourly activists @ $10 per hour, working 7 Saturdays passing out flyers in Tucson @ 3-4 hours per shift): <strong>$700</strong></p>
-				<p>Flyers Budget @20,000 flyers (to pass out in Tucson for advertising): <strong>$800&nbsp;</strong></p>
-				<p>Budget to advertise upcoming conference in Tucson: <strong>$300</strong></p>
-				<p>Print (Newspaper and magazine) and Radio Advertising Budget: <strong>$800</strong></p>
-				<p>Videographer and Live Stream of Conference: <strong>$600</strong></p>
-				<hr>
-				<p>Total Amount To Raise : <strong>$6,400</strong></p>
-			</div>			
-		</div> -->
 	</div>
 </section>
 <section class="gray">
@@ -193,8 +283,8 @@
 		</div>
 	</div>
 </section>
-
-<section class="white">
+-->
+<!-- <section class="white">
 	<a id="location" class="anchor"></a>
 	<div class="inner-container">
 		<div class="intro">
@@ -216,25 +306,36 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="gray panel center">
 	<a id="poster" class="anchor"></a>
 	<div class="inner-container">
 		<div class="row">
+			<div class="col s12"><h3>Event Posters</h3></div>
+		</div>
+		<div class="row">
 			<div class="col s12 m6">
-				<img src="/img/stop-geoengineering-summit-poster-1.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
+				<img src="/img/stop-geoengineering-summit-poster-6.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
 			</div>
 			<div class="col s12 m6">
-				<img src="/img/stop-geoengineering-summit-poster-2.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
+				<img src="/img/stop-geoengineering-summit-poster-5.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
 			</div>
 		</div> 
 		<div class="row">
 			<div class="col s12 m6">
-				<img src="/img/stop-geoengineering-summit-poster-3.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
+				<img src="/img/stop-geoengineering-summit-poster-2.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
+			</div>						
+			<div class="col s12 m6">
+				<img src="/img/stop-geoengineering-summit-poster-1.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
 			</div>
+		</div>
+		<div class="row">
 			<div class="col s12 m6">
 				<img src="/img/stop-geoengineering-summit-poster-4.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
+			</div>
+			<div class="col s12 m6">
+				<img src="/img/stop-geoengineering-summit-poster-3.jpg" class="img-responsive" alt="3rd Annual Global Summit to Stop Geoengineering">
 			</div>
 		</div>  
 	</div> 

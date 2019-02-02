@@ -66,7 +66,7 @@ module.exports = function(grunt) {
             '<%= dir.src %>/js/vendor/modernizr.js'
           ],
           '<%= dir.prod %>/js/global-scripts-tail.js': [
-            // '<%= dir.src %>/js/vendor/jquery.waypoints.min.js',
+            '<%= dir.src %>/js/vendor/jquery.fancybox.js',
             '<%= dir.src %>/js/main.js'
           ]
         }

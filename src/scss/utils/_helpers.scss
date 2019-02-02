@@ -28,15 +28,21 @@
 	}
 }
 .img-container {
-		background-color: $white;
-		padding: .75rem;
+	background-color: $white;
+	padding: .75rem;
+	max-width: 100%;
+	margin: 0 auto;
+	box-shadow: 0 8px 15px -5px rgba($black, .75);
+	text-align: center;
+	@include trailer(1);
+	&.sm {max-width: 50%;}
+	&.md {max-width: 75%;}
+	&.lg {max-width: 100%;}
+	> img {
+		display: block;
+		margin: auto;
 		max-width: 100%;
-		margin: 0 auto;
-		box-shadow: 0 8px 15px -5px rgba($black, .75);
-		@include trailer(1);
-		&.sm {max-width: 50%;}
-		&.md {max-width: 75%;}
-		&.lg {max-width: 100%;}
+	}	
 }
 .drop-shadow {
 	box-shadow: 0 10px 10px -5px rgba($black, .75);

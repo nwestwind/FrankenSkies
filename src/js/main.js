@@ -189,11 +189,11 @@ fs.skies.backTop = {
 		}
 };
 
-$(function(){
+(function($){
 	fs.skies.setup.init();
 	fs.skies.scroll.init();
 	fs.skies.backTop.init();
 	//fs.skies.wayPoint.init(); 
  
-});
+}(jQuery));
  

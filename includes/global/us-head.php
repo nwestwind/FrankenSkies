@@ -1,11 +1,9 @@
 include "/global/functions.php"
 <!DOCTYPE html>
-<!--[if IE 9]><html class="no-js ie ie9 lte9" lang="en"><![endif]-->
-<!--[if gt IE 9]><html class="no-js ie" lang="en"><![endif]-->
-<!--[if !IE]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<html class="no-js" lang="en">
 	<head>
 
-    <title>FrankenSkies Documentary</title>
+    <title>The Lies in the Skies Exposed | FrankenSkies</title>
    
 	include "/global/meta.php"
 

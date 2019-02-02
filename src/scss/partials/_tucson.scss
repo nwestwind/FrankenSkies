@@ -1,6 +1,7 @@
 #tucson {
 	font-family: 'PT Sans', sans-serif;
 	.hero {
+		min-height: 95vh;
 		background: url('../img/tucson.jpg') no-repeat 50% 50%;
   		background-size: cover;
   		.hero-content {
@@ -36,10 +37,10 @@
 				background-position: 25% 0;
 			}
 			@media (min-width: $screen-md) {
-				background-position: 0 0;
+				background-position: 20% 0;
 			}
 			@media (min-width: $screen-lg) {
-				background-position: 0 50%;
+				background-position: 20% 50%;
 			}
 		}
 	}
