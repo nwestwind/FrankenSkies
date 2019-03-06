@@ -19,16 +19,12 @@ body {
   padding: 0;
   margin: 0;
   border: 0 none transparent;
-  @include set-font-size(14px, 1);
-  @media (min-width: $screen-sm) {
-    @include set-font-size(18px, 1.25);
-  }
   font-family: "Dosis", Arial, "Helvetica", sans-serif;
   font-weight: $base-font-weight;
   color: $text-color;
   overflow-x: hidden;
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+  // -webkit-font-smoothing: antialiased;
+  // font-smoothing: antialiased;
   @include stack-spacing();
   &.scroll {}
   > video.background {
@@ -141,6 +137,13 @@ h6,
   text-align: center;
 }
 p {
+  @include set-font-size(14px, 1);
+  @media (min-width: $screen-sm) {
+    @include set-font-size(18px, 1.25);
+  }
+  @media (min-width: $screen-md) {
+    @include set-font-size(21px, 1.5);
+  }
   margin-top: 0;
   @include trailer();
 }
