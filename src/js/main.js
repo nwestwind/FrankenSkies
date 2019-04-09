@@ -167,33 +167,79 @@ fs.skies.scroll = {
 };
 // back to top
 fs.skies.backTop = {
-		state: {
-			namespace: 'backTop'
-		},
+	state: {
+		namespace: 'backTop'
+	},
 
-		init: function() {
-			this.listen();
-		},
+	init: function() {
+		this.listen();
+	},
 
-		listen: function () {
-			var self = this,
-			topMenu = $("nav"),
-			topMenuHeight = parseInt(topMenu.outerHeight(true));
+	listen: function () {
+		var self = this,
+		topMenu = $("nav"),
+		topMenuHeight = parseInt(topMenu.outerHeight(true));
 
-			$('.back-to-top').on('click', function() {
-				var offsetTop = 0;
-				$('html, body').stop().animate({
-					 scrollTop: offsetTop
-				}, 300);
-			});
-		}
+		$('.back-to-top').on('click', function() {
+			var offsetTop = 0;
+			$('html, body').stop().animate({
+				 scrollTop: offsetTop
+			}, 300);
+		});
+	}
+};
+ 
+fs.skies.formSubmit = {
+	state: {
+		namespace: 'formSubmit'
+	},
+
+	init: function() {
+		this.handler();
+	},
+
+	handler: function () {
+		var self = this; 
+		
+		$("#submit").click(function(event) {
+			event.preventDefault();
+
+			var form = $("#form");
+			var name = $("#name").val();
+			var email = $("#email").val();
+			var data = {
+			  name: name,
+			  email: email
+			};
+
+			if (name == '' && email == '') {
+				alert("A Name And Email Are Required"); 
+				// return;
+			} else if (name == '' && email != '') {					
+				alert("Please Enter A Name"); 
+				// return;
+			} else if (name != '' && email == '') {
+				alert("Please Enter A Valid Email"); 
+				// return;
+			} else {
+				$.ajax({
+					type: "POST",
+				 	url: "http://frankenskiesthemovie.com/contact-form.php",
+				  	data: data,
+				  	success: function(data) {
+					$("#returnmessage").addClass('is-visible').html('Thank you '+ name + ' for signing up!');		    
+				  }
+				});
+			}
+		});
+ 
+	}
 };
 
 (function($){
 	fs.skies.setup.init();
 	fs.skies.scroll.init();
 	fs.skies.backTop.init();
-	//fs.skies.wayPoint.init(); 
- 
+	fs.skies.formSubmit.init(); 
 }(jQuery));
  

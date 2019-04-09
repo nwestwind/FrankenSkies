@@ -1,4 +1,4 @@
-<section class="black">
+<section class="gradient-black">
 	<a id="donate" class="anchor"></a>
 	<div class="inner-container">
 		<div class="intro">
@@ -9,8 +9,7 @@
 			<div class="col s12 m5 push-m7"> 
 				<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='ProtectionClothing'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>				
 			</div> 
-			<div class="col s12 m7 pull-m5"> 
-
+			<div class="col s12 m7 pull-m5">
 				<p>The clothing line will consist of garments lined with metal fabric such as nickel, silver, copper and steel. The metal acts as an armor of protection from microwave EMF / RF radiation. The clothing line will become a vehicle for funding future activism and is purely designed to serve humanity.</p>
 
 				<p>The clothing deflects micro wave radiation due to the properties of the metals used in the fabrics.</p>
@@ -41,7 +40,7 @@
 					</div>
 				</div>
 			</div>
-		</div>	
+		</div>
 	</div>
 </section>
 

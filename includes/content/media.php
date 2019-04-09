@@ -11,6 +11,13 @@
 				<div class="col s12 m10 offset-m1">
 					<div class="video-container">
 						<div class="sixteen-nine"> 
+							<iframe src="https://www.youtube-nocookie.com/embed/4Qz7p6iS7WM?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="col s12 m6">
+					<div class="video-container">
+						<div class="sixteen-nine"> 
 							<iframe src="https://www.youtube-nocookie.com/embed/yAx0-KBxMtk?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 						</div>
 					</div>

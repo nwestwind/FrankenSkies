@@ -35,6 +35,25 @@ module.exports = function(grunt) {
         // "<%= dir.prod %>/**/*.mp4"
       ]
     },
+    cacheBust: {
+      taskName: {
+          options: {
+            algorithm: 'md5',
+            assets: ['css/*', 'js/*'],
+            baseDir: './dist',
+            createCopies: true,
+            deleteOriginals: false,
+            jsonOutput: false,
+            jsonOutputFilename: 'grunt-cache-bust.json',
+            length: 16,
+            separator: '.',
+            queryString: false,
+            outputDir: '' ,
+            clearOutputDir: false
+          },
+          src: ['index.html']
+      }
+    },
     sass: {
       prod: {
         options: {
@@ -67,7 +86,8 @@ module.exports = function(grunt) {
           ],
           '<%= dir.prod %>/js/global-scripts-tail.js': [
             '<%= dir.src %>/js/vendor/jquery.fancybox.js',
-            '<%= dir.src %>/js/main.js'
+            '<%= dir.src %>/js/components/form.js',
+            '<%= dir.src %>/js/main.js'         
           ]
         }
       }
@@ -128,7 +148,7 @@ module.exports = function(grunt) {
       },
       js: {
         files: ['<%= dir.src %>/js/**/*.js'],
-        tasks: ['concat:js' , 'uglify:js', 'copy']
+        tasks: ['concat:js' , 'uglify:js']
       },
       copy: {
         files: ['<%= dir.src %>/img/**',
@@ -198,9 +218,9 @@ module.exports = function(grunt) {
   // grunt.loadNpmTasks('grunt-sassdoc');
   // grunt.loadNpmTasks('grunt-sass');
   // grunt.loadNpmTasks('grunt-browser-sync');
-
+  // grunt.loadNpmTasks('grunt-cache-bust');
   //tasks
-  grunt.registerTask('build', ['clean', 'copy', 'sass', 'includes', 'concat:js', 'uglify:js', 'sassdoc']);
+  grunt.registerTask('build', ['clean', 'copy', 'sass', 'includes', 'concat:js', 'uglify:js', 'sassdoc', 'cacheBust']);
   grunt.registerTask('develop', function() {
     var tasks = ['browserSync:develop', 'watch'];
     grunt.task.run(tasks);

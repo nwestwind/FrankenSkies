@@ -1,5 +1,4 @@
-
-<section class="gradient yellow panel">
+<section class="gradient-yellow">
 	<a id="about" class="anchor"></a>
 	<div class="inner-container">
 		<div class="intro">
