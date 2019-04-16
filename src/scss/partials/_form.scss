@@ -23,6 +23,9 @@
 		width: 100%;
 	}
 }
+#loading {
+	display: none;
+}
 #returnmessage.is-visible {
 	color: currentColor;
 	text-align: center;

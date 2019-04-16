@@ -18,7 +18,8 @@
 						<button class="btn black" type="button" id="submit" value="Sign Up!">Sign Up!</button>
 					</div>
 				</form>
-			</div>			
+			</div>		
+			<div id="loading">Loading...</div>	
 		</div>			
 	</div>
 </section>

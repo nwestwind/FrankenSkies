@@ -222,13 +222,18 @@ fs.skies.formSubmit = {
 				alert("Please Enter A Valid Email"); 
 				// return;
 			} else {
+				$("#loading").show();
 				$.ajax({
 					type: "POST",
 				 	url: "http://frankenskiesthemovie.com/contact-form.php",
-				  	data: data,
+				  	data: data,		  	
 				  	success: function(data) {
-					$("#returnmessage").addClass('is-visible').html('Thank you '+ name + ' for signing up!');		    
-				  }
+				  		$("#loading").show();							    
+				  	},
+				  	complete: function() {
+				  		$("#loading").remove();							    
+						$("#returnmessage").addClass('is-visible').html('Thank you '+ name + ' for signing up!');
+				  	}
 				});
 			}
 		});
